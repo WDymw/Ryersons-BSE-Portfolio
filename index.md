@@ -71,6 +71,10 @@ void loop() {
 
 }
 ```
+# Starter Project
+Project name: BlueStamp Arduino Starter
+This project has been modified. The input is the button placed on the shield, and the output is the onboard LED light, which lights up.
+The power comes from the current flowing from the Arduino Board. When the button is presssed, the current will flow through the button, which is then passed on to the wire that connects the button to the digital pin 2, and therefore noticing the board that the button is being pressed. The ground wire provides a reference for the Board. Specifically, the difference of currents between 0 and the power. The resistor prevents the whole circuit from experiencing a Short circuit.
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.

@@ -75,6 +75,7 @@ void loop() {
 My starter project is the Arduino board. It is modified with its input being a button and its output being an onboard LED light. Which essentially means that when the button is pressed, the LED will light up. This is coded through Arduino IDE.
 This board gains power from my computer, which is connected through a USB wire, it also receives the codes through the wire. The current then passes through the pins, and to the shield of the board. There, it is transferred to one of the legs of the button. When the button is pressed, the current continues through and onto another wire, which is connected to the digital pin 2. At last, the current cycles and causes the LED to light up.
 The Other two main components of this circuit are the ground wires and the 10k ohm resistor. The ground wire provides the board a reference for the power wire and limits the difference between the ground and the power wire less than 5v. The resistor prevents the circuit from shorting.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug](https://www.youtube.com/watch?v=1ndPM6ghYaU&list=PLe-u_DjFx7etk6dyDuivrw-gQGhkx9TJL&index=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.

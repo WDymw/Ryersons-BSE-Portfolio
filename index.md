@@ -37,8 +37,6 @@ For your second milestone, explain what you've worked on since your previous mil
 <!--Completed-->
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 I chose the sound reactive paper lantern to be my main project. This project functions on LED rings which would be placed in the lanterns. The LED lights would receive information from the microcontrollers that was passed from the computer. They react to sound through a microphone on the computer, which is transcribed by the software. I planned to first assemble a prototype (Which is the first milestone). This prototype consists of simply a power supply, a switch, a microcontroller, and a LED ring. The power, when the switch is pressed, would pass onto the microcontroller and the LED ring at the same time, powering both. The commands would be sent from the software on the computer, which is received by the controller. The data is then transmitted through the data input wire to the LED ring, which controls the lighting pattern of the LED ring.
 I have so far succeeded in terms of applying the software, soldering three wires together, using a screw terminal and connecting LEDs to the microcontroller.
 Some challenges I currently face are the complicated schematic, which I hope would be solved in the future through drawing a more detailed schematic map. Also, this project requires precise soldering in many spots. Given that I'm not skillful in soldering, it would be difficult for me to complete this project. 
@@ -88,8 +86,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
+
 # Other Resources/Examples
 <!--Not completed--
+
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)

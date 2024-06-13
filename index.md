@@ -10,8 +10,8 @@ Project introduction: Sound Reactive Lanterns reacts by detecting sounds from a 
 
 <!--- This is an HTML comment in Markdown -->
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+![Picture of myself](/least-github-pages/assets/Ryerson_L.HEIC)
 
-![Headstone Image](logo.svg)
 <!--- This is an HTML comment in Markdown -->
 # Final Milestone
 

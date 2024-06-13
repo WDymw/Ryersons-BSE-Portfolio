@@ -2,7 +2,7 @@
 Bluestamp Arduino Starter
 Ryerson's portfolio
 
-# 
+
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
@@ -76,9 +76,10 @@ void loop() {
 }
 ```
 # Starter Project
-My starter project is the Arduino board. It is modified with its input being a button and its output being an onboard LED light. Which essentially means that when the button is pressed, the LED will light up. This is coded through Arduino IDE.
-This board gains power from my computer, which is connected through a USB wire, it also receives the codes through the wire. The current then passes through the pins, and to the shield of the board. There, it is transferred to one of the legs of the button. When the button is pressed, the current continues through and onto another wire, which is connected to the digital pin 2. At last, the current cycles and causes the LED to light up.
-The Other two main components of this circuit are the ground wires and the 10k ohm resistor. The ground wire provides the board a reference for the power wire and limits the difference between the ground and the power wire less than 5v. The resistor prevents the circuit from shorting.
+My starter project is the Arduino Board with specific modifications to make it able to receive information from this button and light up the LED. I chose to install a button as my input and use the LED light on the board to be my output because I believe that a button is the most simple way for an input, and light is the most direct way to see an output. I chose this project because I thought it would be beneficial to produce a project that involves coding and circuits.
+This board performs its functions through the electric circuit. The 5V of the battery passing on from the board, travels to a rail which is connected to one of the legs of the button. When the button is pressed, the current passes through the button and then on to another wire which is connected to the digital pin 2. By doing so, the board would notice that the button is pressed, and the light would be turned on.
+The few wires here are ground wires, which are not charged, and what they do is provide a reference for the board in terms of the voltage difference.
+This was a quite challenging project, since I began with no knowledge on circuits and soldering, both topics cost me hours and hours. But eventually I figured out the methods. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug](https://www.youtube.com/watch?v=1ndPM6ghYaU&list=PLe-u_DjFx7etk6dyDuivrw-gQGhkx9TJL&index=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Bill of Materials

@@ -6,7 +6,7 @@ Project introduction: Sound Reactive Lanterns reacts by detecting sounds from a 
 
 <!--Not completed-->
 
-![Picture of myself](assets/Ryerson)
+![Picture of myself](assets/Ryerson.png)
 
 
 # Final Milestone

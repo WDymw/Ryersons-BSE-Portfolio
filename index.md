@@ -1,14 +1,12 @@
+Ryerson
 
-Sound Reactive Lanterns reacts by detecting sounds from a microphone from the computer, which is then transmitted to the LED lights in the lantern. This project requires soldering in many spots, a complicated schematic, and precision in size and length of the wires. 
+Saint Andrews School(Delaware)
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+Area of interest:Aerospace engineer
 
-| **Ryerson** | **Saint Andrews School(Delaware)** | **Area of Interest** | **Rising Sophomore** |
-|:--:|:--:|:--:|:--:|
+Rising Sophomore
+
+Project introduction: Sound Reactive Lanterns reacts by detecting sounds from a microphone from the computer, which is then transmitted to the LED lights in the lantern. This project requires soldering in many spots, a complicated schematic, and precision in size and length of the wires. 
 
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
@@ -70,13 +68,14 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
+<!--- Anything between these symbols will not render on the published site -->
 ```
 # Starter Project
 My starter project is the Arduino Board with specific modifications to make it able to receive information from this button and light up the LED. I chose to install a button as my input and use the LED light on the board to be my output because I believe that a button is the most simple way for an input, and light is the most direct way to see an output. I chose this project because I thought it would be beneficial to produce a project that involves coding and circuits.
 This board performs its functions through the electric circuit. The 5V of the battery passing on from the board, travels to a rail which is connected to one of the legs of the button. When the button is pressed, the current passes through the button and then on to another wire which is connected to the digital pin 2. By doing so, the board would notice that the button is pressed, and the light would be turned on.
 The few wires here are ground wires, which are not charged, and what they do is provide a reference for the board in terms of the voltage difference.
 This was a quite challenging project, since I began with no knowledge on circuits and soldering, both topics cost me hours and hours. But eventually I figured out the methods. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug](https://www.youtube.com/watch?v=1ndPM6ghYaU&list=PLe-u_DjFx7etk6dyDuivrw-gQGhkx9TJL&index=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/F7M7imOVGug](https://www.youtube.com/watch?v=1ndPM6ghYaU&list=PLe-u_DjFx7etk6dyDuivrw-gQGhkx9TJL&index=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.

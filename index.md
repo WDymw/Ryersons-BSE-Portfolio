@@ -75,7 +75,7 @@ My starter project is the Arduino Board with specific modifications to make it a
 This board performs its functions through the electric circuit. The 5V of the battery passing on from the board, travels to a rail which is connected to one of the legs of the button. When the button is pressed, the current passes through the button and then on to another wire which is connected to the digital pin 2. By doing so, the board would notice that the button is pressed, and the light would be turned on.
 The few wires here are ground wires, which are not charged, and what they do is provide a reference for the board in terms of the voltage difference.
 This was a quite challenging project, since I began with no knowledge on circuits and soldering, both topics cost me hours and hours. But eventually I figured out the methods. 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/F7M7imOVGug](https://www.youtube.com/watch?v=1ndPM6ghYaU&list=PLe-u_DjFx7etk6dyDuivrw-gQGhkx9TJL&index=24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ndPM6ghYaU?si=MM73s4r1F4oPDMNJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--- This is an HTML comment in Markdown -->
 

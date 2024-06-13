@@ -5,7 +5,7 @@
 Project introduction: Sound Reactive Lanterns reacts by detecting sounds from a microphone from the computer, which is then transmitted to the LED lights in the lantern. This project requires soldering in many spots, a complicated schematic, and precision in size and length of the wires. 
 
 <!--Not completed-->
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+
 ![Picture of myself](assets/css/Ryerson_L.HEIC)
 
 
@@ -67,6 +67,7 @@ void loop() {
 }
 
 ```
+<!--Completed-->
 # Starter Project
 My starter project is the Arduino Board with specific modifications to make it able to receive information from this button and light up the LED. I chose to install a button as my input and use the LED light on the board to be my output because I believe that a button is the most simple way for an input, and light is the most direct way to see an output. I chose this project because I thought it would be beneficial to produce a project that involves coding and circuits.
 This board performs its functions through the electric circuit. The 5V of the battery passing on from the board, travels to a rail which is connected to one of the legs of the button. When the button is pressed, the current passes through the button and then on to another wire which is connected to the digital pin 2. By doing so, the board would notice that the button is pressed, and the light would be turned on.

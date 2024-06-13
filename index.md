@@ -1,10 +1,6 @@
-Ryerson
-
-Saint Andrews School(Delaware)
-
-Area of interest:Aerospace engineer
-
-Rising Sophomore
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
+| Ryerson | Saint Andrews School(Delaware) | Aerospace | 10th grade
 
 Project introduction: Sound Reactive Lanterns reacts by detecting sounds from a microphone from the computer, which is then transmitted to the LED lights in the lantern. This project requires soldering in many spots, a complicated schematic, and precision in size and length of the wires. 
 
@@ -14,7 +10,7 @@ Project introduction: Sound Reactive Lanterns reacts by detecting sounds from a 
 
 
 # Final Milestone
-<!--Not completed-->
+<!--Not completed--
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -28,7 +24,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 
 # Second Milestone
-<!--Not completed-->
+<!--Not completed--
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -38,7 +34,7 @@ For your second milestone, explain what you've worked on since your previous mil
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
-
+<!--Completed-->
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
@@ -51,11 +47,11 @@ The next part would be to desolder my prototype, and move on to create a schemat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpqBCa7kghs?si=nl133czFQXI5RgUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Schematics 
-<!--Not completed-->
+<!--Not completed--
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 <!--- This is an HTML comment in Markdown -->
 # Code
-<!--Not completed-->
+<!--Not completed--
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
@@ -81,7 +77,7 @@ This was a quite challenging project, since I began with no knowledge on circuit
 
 
 # Bill of Materials
-<!--Not completed-->
+<!--Not completed--
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
@@ -92,7 +88,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
-<!--Not completed-->
+<!--Not completed--
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)

@@ -79,3 +79,5 @@ The 5V of the battery passing on from the board, travels to a rail which is conn
 Another set of wires are ground, which are not charged, and what they do is provide a reference for the board in terms of the voltage difference.
 This was quite a challenging project since I began with no knowledge of circuits and soldering, both topics cost me hours and hours. I am satisfied with what I learned and I hope I would do even more. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ndPM6ghYaU?si=MM73s4r1F4oPDMNJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Schematic of the Starter project](assets/Untitled4_bb.png)

@@ -1,6 +1,6 @@
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ryerson | Saint Andrews School(Delaware) | Aerospace | 10th grade
+| Ryerson | Saint Andrews School (Delaware) | Aerospace | 10th grade
 
 
 
@@ -36,7 +36,7 @@ For your second milestone, explain what you've worked on since your previous mil
 <!--Completed-->
 # First Milestone
 
-I chose the sound-reactive paper lantern to be my main project. This project functions on LED rings which would be placed in the lanterns. The LED lights would receive information from the microcontrollers that was passed from the computer. They react to sound through a microphone on the computer, which is transcribed by the software. I planned to first assemble a prototype (Which is the first milestone). This prototype consists of simply a power supply, a switch, a microcontroller, and an LED ring. The power, when the switch is pressed, would pass onto the microcontroller and the LED ring at the same time, powering both. The commands would be sent from the software on the computer, which is received by the controller. The data is then transmitted through the data input wire to the LED ring, which controls the lighting pattern of the LED ring.
+I chose the sound-reactive paper lantern to be my main project. This project functions on LED rings which would be placed in the lanterns. The LED lights will receive information from the microcontrollers that was passed from the computer. They react to sound through a microphone on the computer, which is transcribed by the software. I planned to first assemble a prototype (Which is the first milestone). This prototype consists of simply a power supply, a switch, a microcontroller, and an LED ring. The power, when the switch is pressed, would pass onto the microcontroller and the LED ring at the same time, powering both. The commands would be sent from the software on the computer, which is received by the controller. The data is then transmitted through the data input wire to the LED ring, which controls the lighting pattern of the LED ring.
 I have so far succeeded in terms of applying the software, soldering three wires together, using a screw terminal, and connecting LEDs to the microcontroller.
 One challenge I currently face is the complicated schematic, which I hope will be solved in the future by drawing a more detailed schematic map. Also, this project requires precise soldering in many spots. Given that I'm not skillful in soldering, it would be difficult for me to complete this project. 
 The next part would be to desolder my prototype and move on to create a schematic with 7-8 LED rings wired. And make all of them reactive to music. 

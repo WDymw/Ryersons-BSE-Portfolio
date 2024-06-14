@@ -8,9 +8,8 @@
 
 ![Picture of myself](assets/Ryerson.png)
 
-
-# Final Milestone
 <!--Not completed--
+# Final Milestone
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -43,55 +42,36 @@ Some challenges I currently face are the complicated schematic, which I hope wou
 The next part would be to desolder my prototype, and move on to create a schematic with 7-8 LED rings wired. And make all of them reactive to music. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpqBCa7kghs?si=nl133czFQXI5RgUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<!--Not completed--
 # Schematics 
-<!--Not completed--
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
-<!--- This is an HTML comment in Markdown -->
 # Code
-<!--Not completed--
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
-
 ```c++
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
   Serial.println("Hello World!");
 }
-
 void loop() {
   // put your main code here, to run repeatedly:
-
 }
-
 ```
-<!--Completed-->
-
-
-
 # Bill of Materials
-<!--Not completed--
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
-
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 |Arduino Board R3 | Provides a space and power converted for many inputs and ouutputs| $24.5 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-
-
 # Other Resources/Examples
-<!--Not completed--
-
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
 To watch the BSE tutorial on how to create a portfolio, click here.
 
-<!--Completed-->
 # Starter Project
 My starter project is the Arduino Board with specific modifications to make it able to receive information from this button and light up the LED. I chose to install a button as my input and use the LED light on the board to be my output because I believe that a button is the most simple way for an input, and light is the most direct way to see an output. I chose this project because I thought it would be beneficial to produce a project that involves coding and circuits.
 This board performs its functions through the electric circuit. The 5V of the battery passing on from the board, travels to a rail which is connected to one of the legs of the button. When the button is pressed, the current passes through the button and then on to another wire which is connected to the digital pin 2. By doing so, the board would notice that the button is pressed, and the light would be turned on.

@@ -57,12 +57,18 @@ void loop() {
   // put your main code here, to run repeatedly:
 }
 ```
+
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 |Arduino Board R3 | Provides a space and power converted for many inputs and ouutputs| $24.5 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Adafruit ESP32 Feather V2 | Microcontroller of the main project| $19.95 | <a href="https://www.adafruit.com/product/5400"> Link </a> |
+| Neo Pixel Ring | The output, the light | $7.5 | <a href="https://www.adafruit.com/product/1643"> Link </a> |
+| Switch | Control the status of the laterns | $2.95 | <a href="https://www.adafruit.com/product/3064"> Link </a> |
+| Female DC Power Adapter | adapt power from the ground power supply | $2 | <a href="https://www.adafruit.com/product/368"> Link </a> |
+| Power Supply | Supply Power | $7.95 | <a href="https://www.adafruit.com/product/276"> Link </a> |
+| Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |'
 | Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 # Other Resources/Examples
@@ -72,7 +78,7 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 To watch the BSE tutorial on how to create a portfolio, click here.
 
-<!--Completed-->
+
 # Starter Project
 My starter project is the Arduino Board with specific modifications to enable it to receive information from a button and light up the LED. I chose to install a button as my input and use the LED light on the board as my output because I believe that a button is the simplest input, and light is the most direct way to see an output. I chose this project because I thought it would be beneficial to produce a project that involves coding and circuits.
 The 5V of the battery passing on from the board, travels to a rail which is connected to one of the legs of the button. When the button is pressed, the current passes through the button and then onto another wire which is connected to the digital pin 2 on the Arduino board. By doing so, the board would notice that the button is pressed, and the light would be turned on.

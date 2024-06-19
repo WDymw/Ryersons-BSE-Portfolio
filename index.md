@@ -45,18 +45,18 @@ My next step is to desolder my prototype and move on to create a schematic with 
 
 
 # Code
-
-void setup() {
-  pinMode(ledPin, OUTPUT);
-  pinMode(buttonPin, INPUT);
-
-void loop() {
-  buttonState = digitalRead(buttonPin);
-
-  if (buttonState == HIGH) {
-    digitalWrite(ledPin, HIGH);
-  } else {
-    digitalWrite(ledPin, LOW);
+    
+    void setup() {
+      pinMode(ledPin, OUTPUT);
+      pinMode(buttonPin, INPUT);
+    
+    void loop() {
+      buttonState = digitalRead(buttonPin);
+    
+      if (buttonState == HIGH) {
+        digitalWrite(ledPin, HIGH);
+      } else {
+        digitalWrite(ledPin, LOW);
 
 
 # Bill of Materials
@@ -72,13 +72,14 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+<!--
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 To watch the BSE tutorial on how to create a portfolio, click here.
-
+-->
 
 # Starter Project
 My starter project is the Arduino Board with specific modifications to enable it to receive information from a button and light up the LED. I chose to install a button as my input and use the LED light on the board as my output because I believe that a button is the simplest input, and light is the most direct way to see an output. I chose this project because I thought it would be beneficial to produce a project that involves coding and circuits.
@@ -86,5 +87,5 @@ The 5V of the battery passing on from the board, travels to a rail which is conn
 Another set of wires are ground, which are not charged, and what they do is provide a reference for the board in terms of the voltage difference.
 This was quite a challenging project since I began with no knowledge of circuits and soldering, both topics cost me hours and hours. I am satisfied with what I learned and I hope I would do even more. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ndPM6ghYaU?si=MM73s4r1F4oPDMNJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+##Starter project schematic
 ![Schematic of the Starter project](assets/Untitled4_bb.png)

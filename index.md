@@ -69,7 +69,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Switch | Control the status of the laterns | $2.95 | <a href="https://www.adafruit.com/product/3064"> Link </a> |
 | Female DC Power Adapter | adapt power from the ground power supply | $2 | <a href="https://www.adafruit.com/product/368"> Link </a> |
 | Power Supply | Supply Power | $7.95 | <a href="https://www.adafruit.com/product/276"> Link </a> |
-| Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |'
+| Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 # Other Resources/Examples

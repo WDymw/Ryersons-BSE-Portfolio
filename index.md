@@ -63,15 +63,16 @@ My next step is to desolder my prototype and move on to create a schematic with 
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-|Arduino Board R3 | Provides a space and power converted for many inputs and ouutputs| $24.5 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Adafruit ESP32 Feather V2 | Microcontroller of the main project| $19.95 | <a href="https://www.adafruit.com/product/5400"> Link </a> |
-| Neo Pixel Ring | The output, the light | $7.5 | <a href="https://www.adafruit.com/product/1643"> Link </a> |
-| Switch | Control the status of the laterns | $2.95 | <a href="https://www.adafruit.com/product/3064"> Link </a> |
-| Female DC Power Adapter | adapt power from the ground power supply | $2 | <a href="https://www.adafruit.com/product/368"> Link </a> |
-| Power Supply | Supply Power | $7.95 | <a href="https://www.adafruit.com/product/276"> Link </a> |
-| Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name| What the item is used for| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Arduino Board R3 | Provides a space and power converter for many inputs and outputs | $24.5 | [Link](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |
+| Adafruit ESP32 Feather V2 | Microcontroller of the main project | $19.95 | [Link](https://www.adafruit.com/product/5400) |
+| Neo Pixel Ring | The output, the light | $7.5 | [Link](https://www.adafruit.com/product/1643) |
+| Switch | Control the status of the lanterns | $2.95 | [Link](https://www.adafruit.com/product/3064) |
+| Female DC Power Adapter | Adapt power from the ground power supply | $2 | [Link](https://www.adafruit.com/product/368) |
+| Power Supply | Supply Power | $7.95 | [Link](https://www.adafruit.com/product/276) |
+| Item Name | What the item is used for | $Price | [Link](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |
+| Item Name | What the item is used for | $Price | [Link](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |
+| Item Name | What the item is used for | $Price | [Link](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |
+
 <!--
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.

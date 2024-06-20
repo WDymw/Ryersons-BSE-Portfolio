@@ -38,6 +38,7 @@ Similar to the prototype in milestone one, this system gains power from the powe
 Challenges I faced during the building of the project centered around soldering. Soldering itself is not complicated, but the amount of joints that needed soldering deeply challenged my patience. Especially when some parts of a soldered joint fall off, which leads to a collapse, with more time spent on fixing the issue. As the number of LED rings I installed, I became more skillful at soldering. I learned to spread the liquid metal out evenly before it dries, and measure the length and thickness of the heat shrinks to make sure that they fit the open spaces. 
 The final step I need to complete to reach the third milestone would be to make them all react to the sound input on my computer. This part would be done through LedFx. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nVnFCNjOLyI?si=LCzvtY-z3W5bb2Oh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Code
     

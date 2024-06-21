@@ -1,6 +1,6 @@
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ryerson | Saint Andrews School (Delaware) | Aerospace | 10th grade
+| Ryerson | Saint Andrews School (Delaware) | Material  | 10th grade
 
 
 

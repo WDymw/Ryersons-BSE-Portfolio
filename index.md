@@ -4,22 +4,8 @@
 
 
 
-<!--Not completed-->
-
 ![Picture of myself](assets/Ryerson.png)
 
-<!--Not completed--
-# Final Milestone
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
--->
 
 # First Milestone
 
@@ -37,8 +23,15 @@ Similar to the prototype in milestone one, this system gains power from the powe
 Challenges I faced during the building of the project centered around soldering. Soldering itself is not complicated, but the amount of joints that needed soldering deeply challenged my patience. Especially when some parts of a soldered joint fell off, which led to a collapse, with more time spent on fixing the issue. As I installed more LED rings , I became more skillful at soldering. I learned to spread the liquid metal out evenly before it solidifies, and measure the length and thickness of the heat shrinks to make sure that they fit the open spaces. 
 The final step I need to complete in order to reach the third milestone is to make them all react to the sound input on my computer. This part would be done through LedFx, which is a web software that uses its algorithms to make the LED lights react to sound. 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVnFCNjOLyI?si=LCzvtY-z3W5bb2Oh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Final Milestone
+
+Since my previous milestone, I have made my lanterns able to react to sound, meaning they can perform all their originally planned functions. This is done through a software called LedFx. This software receives the hertz frequency from sound input (My computer's microphone) and transcribes them into commands that the LED ring can read. The variety of effect types enables the lanterns to react with different colors and to different frequencies. For instance, one of the lanterns could be red, which is coded as a color of a low hertz. Another one could be blue, which is coded as a color of a medium hertz. 
+Despite having many physical troubles, such as wiring and troubleshooting the software, the biggest and general challenge I faced was dealing with my mental world. I think that this project is entertaining to do, but even so, I began without appreciating the project when I was working with it. Sometimes I just stopped working on it because I felt tired by the repetition of steps, and I tried to put myself back into it, but nothing changed by doing so. After a while, I used a few ways to help me focus more on my project. Those methods include listening to music with my earbuds, drinking a lot of water(Which requires me to go to the fountain, basically taking a small break), and setting goals for my day to push myself.
+I gained the most knowledge in using tools and electricity.. I am now skillful in using soldering irons and heat guns. I also tried Fritzing, which is a software for drawing schematics, WLED, which is the basic software for controlling the LED rings, and LedFx. Even though I have not mastered using them, I have no issue with using them to perform the functions I want them to. Circuits and electricity were another big part of my project, and I have learned a lot about them during the building process. I learned about Ohm’s law, the positive and negative charges, and power, ground, and data wires. 
+In the future, I would like to learn more about engineering. I would like to begin with physics, the base of almost all engineering. I would then like to learn more about chemistry and computer science. 
+
 
 # Code
     

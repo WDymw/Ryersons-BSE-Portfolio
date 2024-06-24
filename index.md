@@ -55,9 +55,9 @@ Since my previous milestone, I have made my lanterns able to react to sound, mea
 | Switch | Control the status of the lanterns | $2.95 | [Link](https://www.adafruit.com/product/3064) |
 | Female DC Power Adapter | Adapt power from the ground power supply | $2 | [Link](https://www.adafruit.com/product/368) |
 | Power Supply | Supply Power | $7.95 | [Link](https://www.adafruit.com/product/276) |
-| Item Name | What the item is used for | $Price | [Link](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |
-| Item Name | What the item is used for | $Price | [Link](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |
-| Item Name | What the item is used for | $Price | [Link](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |
+| JST Connector | Connect the electronics to the rail | $1.5 | [Link](https://www.adafruit.com/product/1663) |
+| Ribbon Cable | Serving as wires | $19.98 | [Link](https://www.amazon.com/dp/B07PMS4WNN?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_6S4PN0M8W63V88Q4RCYG_1)|
+| Paper Lanterns | Lanterns | $17.99 | [Link](https://www.amazon.com/dp/B0757KS4L8?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_JMMSSZR94M6K803XZNP4) |
 
 
 # Starter Project

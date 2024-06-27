@@ -15,6 +15,9 @@ I have so far succeeded in applying the software, soldering three wires together
 
 My next step is to desolder my prototype and move on to create a schematic with 7-8 LED rings wired, and make all of them reactive to music. 
 
+##Schematic of the first milestone/prototype
+![Schematic of first milestone](assets/Untitled Sketch 2_bb.png)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpqBCa7kghs?si=nl133czFQXI5RgUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Second Milestone

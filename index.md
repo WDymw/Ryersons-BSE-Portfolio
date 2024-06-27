@@ -1,6 +1,6 @@
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ryerson | Saint Andrews School (Delaware) | Material  | 10th grade
+| Ryerson | Saint Andrews School (Delaware) | Material  | 10th grade 
 
 
 
@@ -58,9 +58,9 @@ Since my previous milestone, I have made my lanterns able to react to sound, mea
 
 # Bill of Materials
 | Part                     | Note                                              | Price  | Link |
-|--------------------------|---------------------------------------------------|--------|------|
+|:------------------------|:--------------------------------------------------|:-------|:-----|
 | Arduino Board R3         | Provides a space and power converter for many inputs and outputs | $24.5  | [Link](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |
-| Adafruit ESP32 Feather V2| Microcontroller of the main project               | $19.95 | [Link](https://www.adafruit.com/product/5400) |
+| Adafruit ESP32 Feather V2 | Microcontroller of the main project               | $19.95 | [Link](https://www.adafruit.com/product/5400) |
 | Neo Pixel Ring           | The output, the light                             | $7.5   | [Link](https://www.adafruit.com/product/1643) |
 | Switch                   | Control the status of the lanterns                | $2.95  | [Link](https://www.adafruit.com/product/3064) |
 | Female DC Power Adapter  | Adapt power from the ground power supply          | $2     | [Link](https://www.adafruit.com/product/368) |

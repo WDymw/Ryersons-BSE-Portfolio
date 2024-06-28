@@ -5,6 +5,7 @@
 
 
 ![Picture of myself](assets/Ryerson.png)
+![Picture of Myself with my project](assets/屏幕截图 2024-06-28 153833.png)
 
 
 # First Milestone
